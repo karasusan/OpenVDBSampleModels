@@ -1,0 +1,8 @@
+{
+    "name": "jp.kazuki.openvdb-samplemodels",
+    "displayName": "OpenVDB Sample Models",
+    "version": "0.0.1",
+    "unity": "2018.2",
+    "description": "This package contains OpenVDB sample models downloaded from http://www.openvdb.org/download",
+    "dependencies": { }
+}
