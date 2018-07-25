@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 111989529e96c4b83adbc5b2813e8d97
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: wdas_cloud_quarter/wdas_cloud_quarter
+    400000: wdas_cloud_quarter/wdas_cloud_quarter/Transform
+    2100000: Default Material
+    2300000: wdas_cloud_quarter/wdas_cloud_quarter/MeshRenderer
+    3300000: wdas_cloud_quarter/wdas_cloud_quarter/MeshFilter
+    4300000: wdas_cloud_quarter
+    11400000: wdas_cloud_quarter_VDBDesc
+    11700000: wdas_cloud_quarter
+    100100000: wdas_cloud_quarter
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
+  streamSettings:
+    scaleFactor: 0.01
