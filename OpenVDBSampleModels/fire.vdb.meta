@@ -2,6 +2,15 @@ fileFormatVersion: 2
 guid: 688aec7b991a64ba492ffdbbe8e74617
 ScriptedImporter:
   fileIDToRecycleName:
+    100000: fire/fire
+    400000: fire/fire/Transform
+    2100000: Default Material
+    2300000: fire/fire/MeshRenderer
+    3300000: fire/fire/MeshFilter
+    4300000: fire
+    11400000: fire_VDBDesc
+    11700000: fire
+    100100000: fire
     2186277476908879412: ImportLogs
   externalObjects: {}
   userData: 

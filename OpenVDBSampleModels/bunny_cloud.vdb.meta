@@ -2,6 +2,15 @@ fileFormatVersion: 2
 guid: a681824255bdb4d148c6678b54a35787
 ScriptedImporter:
   fileIDToRecycleName:
+    100000: bunny_cloud/bunny_cloud
+    400000: bunny_cloud/bunny_cloud/Transform
+    2100000: Default Material
+    2300000: bunny_cloud/bunny_cloud/MeshRenderer
+    3300000: bunny_cloud/bunny_cloud/MeshFilter
+    4300000: bunny_cloud
+    11400000: bunny_cloud_VDBDesc
+    11700000: bunny_cloud
+    100100000: bunny_cloud
     2186277476908879412: ImportLogs
   externalObjects: {}
   userData: 
