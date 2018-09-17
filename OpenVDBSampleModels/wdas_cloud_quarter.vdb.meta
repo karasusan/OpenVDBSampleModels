@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 111989529e96c4b83adbc5b2813e8d97
+guid: 3335e7b699900488886c7cbfb0fe9245
 ScriptedImporter:
   fileIDToRecycleName:
-    100000: wdas_cloud_quarter/wdas_cloud_quarter
-    400000: wdas_cloud_quarter/wdas_cloud_quarter/Transform
+    100002: wdas_cloud_quarter/wdas_cloud_quarter
+    400002: wdas_cloud_quarter/wdas_cloud_quarter/Transform
     2100000: Default Material
-    2300000: wdas_cloud_quarter/wdas_cloud_quarter/MeshRenderer
-    3300000: wdas_cloud_quarter/wdas_cloud_quarter/MeshFilter
-    4300000: wdas_cloud_quarter
-    11400000: wdas_cloud_quarter_VDBDesc
-    11700000: wdas_cloud_quarter
-    100100000: wdas_cloud_quarter
+    2300002: wdas_cloud_quarter/wdas_cloud_quarter/MeshRenderer
+    3300002: wdas_cloud_quarter/wdas_cloud_quarter/MeshFilter
+    4300002: wdas_cloud_quarter
+    11400002: wdas_cloud_quarter_VDBDesc
+    11700002: wdas_cloud_quarter
+    100100002: wdas_cloud_quarter
     2186277476908879412: ImportLogs
   externalObjects: {}
   userData: 
@@ -18,4 +18,9 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 8dbf4f10acd0347ee84d79cd77d0df3c, type: 3}
   streamSettings:
-    scaleFactor: 1
+    scaleFactor: 0.01
+    importMaterials: 1
+    extractTextures: 0
+    extractMaterials: 0
+    textures: []
+    materials: []
